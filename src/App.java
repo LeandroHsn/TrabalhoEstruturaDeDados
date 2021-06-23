@@ -49,7 +49,7 @@ public class App {
         System.out.println("\nExercício 3: \n");
 
         System.out.println("Pré-ordem: 8, 4, 2, 1, 3, 6, 5, 12, 10, 11, 14, 13, 15");
-        System.out.println("Em-ordem: 1, 2, 3, 4, 5, 6, 8, 11, 10, 12, 13, 14, 15");
+        System.out.println("Em-ordem: 1, 2, 3, 4, 5, 6, 8, 10, 11, 12, 13, 14, 15");
         System.out.println("Pós-ordem: 1, 3, 2, 5, 6, 4, 11, 10, 13, 15, 14, 12, 8");
 
     }
